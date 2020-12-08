@@ -4,6 +4,7 @@ object Solution {
 
     /*
      * Complete the simpleArraySum function below.
+     * Test commit
      */
     def simpleArraySum(ar: Array[Int]): Int = {
         var index = 0
